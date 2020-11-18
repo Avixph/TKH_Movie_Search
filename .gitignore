@@ -1,0 +1,6 @@
+.env
+.DS_store
+.cache
+dist
+/node_modules
+./node_modules
