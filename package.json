@@ -1,7 +1,7 @@
 {
   "name": "TKH_Movie_Search",
   "version": "1.0.0",
-  "main": "js/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html"
@@ -14,8 +14,7 @@
   },
   "dependencies": {
     "axios": "^0.21.0",
-    "": "^5.0.1",
-    "start": "^5.1.0",
+    "dotenv": "^8.2.0",
     "yarn": "^1.22.10"
   },
   "browserlist": [
